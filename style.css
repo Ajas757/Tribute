@@ -1,0 +1,45 @@
+body {
+  background-color: white;
+  text-align: center;
+  font-family: 'Frank Ruhl Libre', serif;
+}
+img {
+  max-width: 100%;
+  height: auto-flow;
+  display: block;
+  margin: auto;
+}
+
+#title,
+#img-caption,
+.lead,
+.ext {
+  text-align: center;
+}
+#tribute-info {
+  width: 62%;
+  text-align: justify;
+  display: block;
+  margin: auto;
+}
+#journey {
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-weight: bolder;
+  font-size: 25px
+}
+#img-caption {
+  padding-top: 10px;
+  margin-right: 30px;
+  margin-left: 30px;
+  font-style: italic;
+}
+.jumbotron {
+  padding-top: 10px;
+}
+.ext {
+  font-weight: bold;
+  font-size: 17px;
+  font-family: helvetica;
+}
